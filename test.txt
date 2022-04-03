@@ -1,0 +1,222 @@
+
+
+
+
+
+//Screams List items
+
+<li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://resources.esportsinsider.com/esportsinsider/2020/03/Game-PUBG-mobile-game-e1607005246904.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://estnn.com/wp-content/uploads/2020/01/league-of-legends-header-x.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://stylecaster.com/wp-content/uploads/2021/11/Spider-Man-No-Way-Home-2.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_mas_mob_01_0.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://i.ytimg.com/vi/uPNK0C9oMHQ/maxresdefault.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://www.gamereactor.eu/media/70/kena_3587073b.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://www.pockettactics.com/wp-content/uploads/2020/06/mobile-legends-free-heroes.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://estnn.com/wp-content/uploads/2020/01/league-of-legends-header-x.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://sm.ign.com/ign_nl/news/k/kena-bridg/kena-bridge-of-spirits-photo-mode-announced_v6gt.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_mas_mob_01_0.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://i.ytimg.com/vi/uPNK0C9oMHQ/maxresdefault.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>
+
+        <li className="play__list__item">
+          <a href="">
+            <div className="play__list__media">
+              <img
+                src="https://www.gamereactor.eu/media/70/kena_3587073b.jpg"
+                alt=""
+              />
+            </div>
+            <p>the world is the best place</p>
+            <div className="play__list__action">
+              <BsSuitHeart className="watch__now__icon" />
+              <BsChatSquare className="watch__now__icon" />
+              <BsEye className="watch__now__icon" />
+              <span>1,2k Views</span>
+            </div>
+          </a>
+        </li>

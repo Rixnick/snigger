@@ -1,0 +1,120 @@
+@import "./variable.scss";
+
+.navigation__container {
+  height: 50px;
+  width: 100%;
+  background-color: var(--black);
+  display: flex;
+  align-items: center;
+  border-radius: 0 0 7px 7px;
+  box-shadow: 0 3px 3px 0 var(--grey);
+  position: sticky;
+  top: 0;
+
+  .navigation__left {
+    flex: 3.5;
+  }
+
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: var(--white);
+    cursor: pointer;
+    margin-left: 200px;
+  }
+
+  .navigation__center {
+    flex: 5.5;
+  }
+
+  .navigation__right {
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 150px;
+
+    .search__bar {
+      width: 100%;
+      height: 30px;
+      background: var(--white);
+      border-radius: 30px;
+      display: flex;
+      align-items: center;
+      margin-right: 15px;
+
+      .search__button {
+        font-size: 20px;
+        margin-left: 7px;
+        color: var(--primary);
+      }
+
+      .search__input {
+        font-size: 14px;
+        font-weight: 300;
+        color: var(--primary);
+        border: none;
+        width: 85%;
+      }
+
+      .search__input:focus {
+        outline: none;
+      }
+    }
+
+    .navigation__link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 0 15px;
+
+      .navigation__link__item {
+        margin: 7px;
+        font-size: 16px;
+        color: var(--primary);
+        cursor: pointer;
+      }
+    }
+
+    .navigation__menu {
+      display: flex;
+
+      .navigation__menu__item {
+        display: flex;
+        cursor: pointer;
+        position: relative;
+        margin-right: 7px;
+
+        .navigation__menu__icon {
+          font-size: 28px;
+          color: var(--primary);
+        }
+
+        .navigation__menu__icon:hover {
+          color: var(--secondary);
+        }
+
+        .navigation__menu_badge {
+          width: 15px;
+          height: 15px;
+          font-size: 12px;
+          color: var(--white);
+          background: var(--secondary);
+          border-radius: 50%;
+          position: absolute;
+          padding-left: 4px;
+          top: -7px;
+          right: -5px;
+        }
+      }
+    }
+  }
+
+  .user__profile {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+}
